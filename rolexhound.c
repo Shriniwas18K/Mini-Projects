@@ -5,6 +5,7 @@
 #include<string.h>
 #include<windows.h>
 //contains apis for file monitoring,searching,metadata
+#include  <signal.h>//to handle CTRL+C aburpt server force shut-down
 
 #define EXT_SUCCESS           0
 #define EXT_WITH_ERR          1
@@ -53,6 +54,7 @@ for our use case of watching changes to file and sending notification to client 
 this much will be enough now , else there is lot more in the windows.h APIs
 
 */
+void     INTCTRLChandler(int);
 int main(int argc,char**argv) {
 //	DECLARING ALL VARIABLES AT TOP IS GOOD CODING PRACTICE IN C , see spaces given below ,its good to do like this
 	char *          basePath=NULL;
@@ -85,6 +87,8 @@ int main(int argc,char**argv) {
 //  rolexhound app/strcpy/ter/rolexhound.c
 //  rolexhound.c
 
+	signal(SIGINT, INTCTRLChandler);//to handle CRTL+C shutdown of server in shell
+
 	while(true) {
 		//This is main loop of server
 		hSearch = FindFirstFile(basePath, &FileData);
@@ -110,5 +114,18 @@ int main(int argc,char**argv) {
 		};
 	};
 }
+void  INTCTRLChandler(int sig)
+{
+     char  c;
 
-
+     signal(sig, SIG_IGN);
+     printf("\n\nOUCH, did you hit Ctrl-C?\n"
+            "Do you really want to quit? [y/n] ");
+     c = getchar();
+     if (c == 'y' || c == 'Y'){
+     	  printf("\nkilling process (server program) process id : %d\n",getpid());
+          exit(EXT_SUCCESS);
+    }else
+          signal(SIGINT, INTCTRLChandler);
+     getchar(); // Get new line character
+}
