@@ -10,4 +10,4 @@ It's executable takes arguement as path to file. We may provide absolute or rela
 		
 		rolexhound <pathtofile>
 
-It logs output when file is accessed or written
+It logs output when file is accessed or written in every 10s
