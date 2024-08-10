@@ -13,9 +13,7 @@
 
 /*
 Purpose of program : This program is server that will continously monitor if any changes after 10s
-occur in file given its path as shell arguement during initiation and , then send the 
-notifications to client subscribed to that file
-It is publish-subscribe event-driven micro-services architecture
+occur in file given its path as shell arguement during initiation and , then trail logs in shell
 */
 
 /*  Pre -requisites and Internal definations in libraries 
