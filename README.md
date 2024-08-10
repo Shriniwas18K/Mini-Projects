@@ -1,5 +1,6 @@
 # File watcher in C
-This mini-project is command-line tool.It logs output when file is accessed or written in every 10s.
+This mini-project is command-line tool.It logs output if file is accessed or written in every 10s.
+The printed time is in windows FILETIME format currently.
 - Compile the program using any C compiler. example : gcc
   	-- gcc rolexhound.c -o rolexhound
 - It's executable takes arguement as path to file. We may provide absolute or relative path of file		
