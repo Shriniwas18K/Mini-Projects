@@ -1,0 +1,42 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html{
+  height: min-content;
+  background: #000;
+}
+.card-list{
+  display: flex;
+  padding: 5vw; 
+}
+.cardone{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: clamp(5cm,50vh,50vh);
+  /* we will allow width to increase depending upon content in card*/
+  background-color: #2f2f2f;
+  box-shadow: clamp(-5vh,-10vh,-1vh) 0vh max(clamp(1vw,1vw,1vw),1cm) #1e1e1e ;
+  margin: max(-1cm,-1vw);
+}
+@media screen  and (min-width:720px) {
+  .cardone:hover{
+      transform: translateY(-5vh);
+      transition: 0.2s;
+      border: 0.1cm solid white;
+      border-radius: 5vh;
+  }
+  .cardone:hover~.card{
+      transform: translateX(-15vw);
+      transition: 0.2s;
+  }
+}
+@media screen and (max-width : 720px){
+  .cardone:hover{
+      border: 0.1cm solid white;
+      margin-right: 0.5cm;
+      margin-left: 0.5cm;
+  }
+}
