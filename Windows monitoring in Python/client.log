@@ -1,0 +1,202 @@
+2024-08-12 20:03:35,760 - [line:33] - INFO: Connected to metrics database
+2024-08-12 20:03:35,898 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:03:35,925 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:03:36,726 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:03:46,830 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:03:46,843 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:03:47,689 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:03:57,793 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:03:57,823 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:03:58,743 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:04:08,846 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:04:08,910 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:04:10,006 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:04:20,110 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:04:20,137 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:04:21,634 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:04:31,737 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:04:31,749 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:04:33,149 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:04:58,602 - [line:33] - INFO: Connected to metrics database
+2024-08-12 20:04:58,718 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:04:58,743 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:04:59,569 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:05:09,672 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:05:09,685 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:05:10,525 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:05:20,628 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:05:20,642 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:05:21,687 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:05:31,790 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:05:31,803 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:05:33,259 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:05:43,363 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:05:43,378 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:05:45,136 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:05:55,240 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:05:55,253 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:05:56,084 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:06:06,188 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:06:06,202 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:06:07,754 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:06:17,858 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:06:17,872 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:06:18,928 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:06:29,031 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:06:29,046 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:06:30,193 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:06:40,298 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:06:40,312 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:06:41,354 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:06:51,457 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:06:51,480 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:06:52,618 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:07:02,720 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:07:02,744 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:07:03,582 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:07:13,685 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:07:13,700 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:07:15,453 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:07:25,556 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:07:25,584 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:07:29,854 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:07:39,958 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:07:39,968 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:07:41,254 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:07:51,358 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:07:51,381 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:07:52,228 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:08:02,331 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:08:02,358 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:08:03,227 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:08:13,331 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:08:13,351 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:08:16,730 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:08:26,840 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:08:26,856 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:08:27,438 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:08:37,541 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:08:37,570 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:08:38,498 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:08:48,605 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:08:48,634 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:08:50,097 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:09:00,202 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:09:00,239 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:09:01,675 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:09:11,780 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:09:11,819 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:09:12,306 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:09:22,411 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:09:22,427 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:09:22,976 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:09:33,081 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:09:33,114 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:09:36,983 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:09:47,087 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:09:47,124 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:09:50,726 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:00,829 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:00,847 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:01,777 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:11,881 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:11,898 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:12,694 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:22,797 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:22,815 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:23,533 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:33,639 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:33,672 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:34,969 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:45,072 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:45,100 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:45,988 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:10:56,093 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:10:56,114 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:10:56,696 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:11:06,800 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:11:06,820 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:11:07,696 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:11:17,799 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:11:17,817 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:11:19,062 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:11:29,168 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:11:29,197 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:11:30,121 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:11:40,225 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:11:40,258 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:11:41,180 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:11:51,283 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:11:51,311 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:11:51,961 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:02,064 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:02,083 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:02,991 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:13,095 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:13,113 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:14,633 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:24,737 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:24,767 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:25,532 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:35,636 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:35,654 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:36,349 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:46,452 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:46,496 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:47,201 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:12:57,304 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:12:57,333 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:12:58,288 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:13:08,391 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:13:08,410 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:13:09,654 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:13:19,762 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:13:19,784 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:13:20,611 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:13:30,714 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:13:30,745 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:13:31,667 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:13:41,771 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:13:41,790 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:13:42,729 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:13:52,832 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:13:52,849 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:13:53,665 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:14:03,769 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:14:03,788 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:14:06,659 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:14:16,762 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:14:16,783 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:14:17,452 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:14:27,556 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:14:27,588 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:14:28,605 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:14:38,709 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:14:38,739 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:14:39,388 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:14:49,493 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:14:49,519 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:14:50,091 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:00,195 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:00,222 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:00,842 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:10,946 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:10,962 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:11,853 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:21,958 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:21,988 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:23,702 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:33,805 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:33,825 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:34,857 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:44,961 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:44,991 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:46,118 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:15:56,221 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:15:56,239 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:15:57,000 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:16:07,105 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:16:07,122 - [line:75] - INFO: RAM metrics captured
+2024-08-12 20:16:07,917 - [line:113] - INFO: Sent metrics to database
+2024-08-12 20:16:18,020 - [line:67] - INFO: physicalCPU metrics captured
+2024-08-12 20:16:18,049 - [line:75] - INFO: RAM metrics captured
