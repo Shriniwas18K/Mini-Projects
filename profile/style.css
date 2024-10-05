@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+#loading-screen{
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top:0;
+  left:0;
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  #banner {
+    height: fit-content;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 70fr 30fr;
+  }
+
+  /* banner text */
+  #conwrapper {
+    padding: 3dvw 5dvw 3dvw 5dvw;
+    font-size: clamp(14px,2dvw,3dvw);
+    text-align: justify;
+  }
+
+  #conwrapper h1 {
+    font-size: 5dvw;
+  }
+  #icon {
+    padding: 5dvw;
+  }
+  /* projects */
+  #projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+  }
+  #projects header{
+    font-size: medium;
+  }
+  #projects-container {
+    display: flex;
+    width: 95dvw;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .card {
+    height: 20dvw;
+    width: 20dvw;
+    border: 1px solid rgb(232, 232, 232);
+    font-size: medium;
+    padding: 2dvw;
+    display: grid;
+    grid-template-rows: 10fr 80fr 10fr;
+    margin: 1dvw;
+    overflow: hidden;
+    text-align: justify;
+  }
+  .card h1 {
+    font-size: large;
+    padding-top: 1dvw;
+    padding-bottom: 1dvw;
+  }
+
+  .card button {
+    height: 3dvw;
+    width: 10dvw;
+    border: none;
+    outline: none;
+    background: rgb(246, 246, 246);
+    border: 1dvw solid rgb(246, 246, 246);
+    border-radius: 0.1dvw;
+    cursor: pointer;
+  }
+  #icon img {
+    height: clamp(2cm,10vw,10cm);
+    width: clamp(2cm,10vw,10cm);
+    background: white;
+    border: 1dvw solid white;
+    border-radius: 2dvw;
+  }
+
+@media screen and (max-width:900px) {
+  #conwrapper h1{
+    font-size: xx-large;
+    margin-bottom: 3dvh;
+  }
+  #conwrapper{
+    padding: 5mm;
+  }
+  .card{
+    height: 80vw;
+    width: 80vw;
+    margin: 10vw;
+    padding: 5mm;
+  }
+}
