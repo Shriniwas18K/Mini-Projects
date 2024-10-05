@@ -1,0 +1,88 @@
+/* android css */
+@media screen and (max-width:580px) {
+    #veiw3d{
+        position: absolute;
+        top:3vh;right: 5vw;
+        height: 9vh;
+        width: 9vh;
+        border: none;outline: none;
+        border-radius: 100vh;
+        background:linear-gradient(to right bottom, darkblue,blue, dodgerblue);
+        color:white;
+    }
+#Team{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    color: white;
+}
+.teamcard img{
+    height: 30vh;
+    width: 30vh;
+    border-radius: 100vh;
+}
+.teamcard{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content:space-between;
+    margin: 1vh;
+    width:80vw;
+    height: 70vh;
+    background: rgb(35, 35, 35);
+    border: none;
+    outline: none;
+    color: white;
+    overflow: hidden;
+}
+.teamcard-links{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80vw;
+}
+.teamcard-links img{
+    background: transparent;
+    border-radius: 0px;
+    height: 1cm;
+    width: 1cm;
+}
+.teamcard:focus{
+    position: relative;
+    padding-top:50vh ;
+}
+.teamcard:focus .teamcardprofileimg{
+    border: 5vh double white;
+    height: 35vh;
+    width:35vh;
+    position: absolute;
+    top:10vh;
+    transition: all 0.5s linear;
+}
+.teamcard:focus span{
+    height: 50vh;
+    background: dodgerblue;
+    width: 150vw;
+    position: absolute;
+    border-bottom-left-radius: 100vh;
+    border-bottom-right-radius: 100vh;
+    top: 0;
+    animation: cardanimandr 1s linear;
+}
+@keyframes cardanimandr {
+    0%{
+        transform: translateY(-50vh);
+    }
+}
+.teamcard:focus .teamcard-links{
+    background: dodgerblue;
+    border-radius: 1vh;
+    padding: 1vh;
+    transition: all 0.5s linear;
+}
+}
