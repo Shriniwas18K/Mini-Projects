@@ -13,6 +13,6 @@ dashboard.
   - every midnight at 00:00 client will delete all its records from postgres(you can modify it in client.py)
 - Feel free to refactor code for your on-premises servers specific os
 - The code was tested using unittest and doctest
-![Screenshot (30)](https://github.com/user-attachments/assets/61e72fbe-6e20-4e8e-bd18-6cb955fc1116)
-![Screenshot (32)](https://github.com/user-attachments/assets/fc296f95-e0fc-4e55-b24c-e26bea853713)
-
+![Screenshot (30)](https://github.com/user-attachments/assets/76f32f7a-4bdd-4c14-beca-27478ef27cda)
+![Screenshot (31)](https://github.com/user-attachments/assets/e52a885f-4aae-4acf-8846-eeb1c2cbb97e)
+![Screenshot (32)](https://github.com/user-attachments/assets/d96344c8-78c6-4cba-89bc-9b8851ff0548)
