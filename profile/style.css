@@ -101,9 +101,12 @@ body {
   #conwrapper{
     padding: 5mm;
   }
+  #projects-container{
+    flex-direction: column;
+  }
   .card{
     height: 80vw;
-    width: 80vw;
+    min-width: 80vw;
     margin: 10vw;
     padding: 5mm;
   }
