@@ -1,0 +1,7 @@
+fastapi[all]
+psycopg2
+cryptography
+openai
+pinecone
+pydantic
+sentence-transformers
