@@ -1,0 +1,1 @@
+This is submission for CVDL project involving rust detection and formation of segmentation masks. It provides GUI for adapting parameter values and need to be manually operated and deployed on IOT devices that can remotely travel in industries.![image](https://github.com/user-attachments/assets/863ece65-44fc-4422-9ab4-4c78be58d356)
