@@ -1,37 +1,3 @@
-"""This is simplified version of the task1 without threading and queues"""
-"""
-f=open("op1.csv","a")
-def on_message(ws, message):
-    try:
-        data = json.loads(message)
-        ticker = data.get('data', [{}])[0].get('s')
-        price = data.get('data', [{}])[0].get('p')
-        quantity = data.get('data', [{}])[0].get('v')
-        if ticker and price and quantity:
-            f.write(f"{ticker},{price},{quantity}\n")
-            f.flush()
-    except Exception as e:
-        pass
-def on_error(ws, error):
-    global f
-    f.close()
-    if isinstance(error, websocket._exceptions.WebSocketConnectionClosedException):
-        time.sleep(5)
-        ws.run_forever()
-def on_open(ws):
-    global tickers
-    global f
-    if not os.path.exists(OUTPUT_PATH):
-        f = open(OUTPUT_PATH, 'a')
-        f.write("ticker,price,volume\n")
-    else:
-        f = open(OUTPUT_PATH, 'a')
-    f.flush()
-    
-    for ticker in tickers:
-        ws.send(json.dumps({"type": "subscribe", "symbol": ticker}))
-"""
-
 """
 This module establishes a websocket connection to Finnhub.io to receive real-time stock data for specified tickers. 
 It subscribes to the tickers, processes incoming messages, and saves the data (ticker, price, volume) to a CSV file.
@@ -48,7 +14,7 @@ import threading
 import logging
 
 # API_KEY = os.environ.get('API_KEY')
-API_KEY = "csbo7m1r01qugk3m7co0csbo7m1r01qugk3m7cog"
+API_KEY = "csbo7m1r01qugk3m7co0csbo7m1r01qugk3m7cog" # we should not push api keys in github or public.
 # given here for testing this code
 
 # Dictionary to store message queues for each ticker
